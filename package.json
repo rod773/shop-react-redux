@@ -1,5 +1,6 @@
 {
   "name": "shop-react-redux",
+  "homepage": "wp-content/themes/shop-react-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
